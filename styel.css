@@ -1,0 +1,35 @@
+/* element selector */
+/* h1{
+    color: black;
+    background-color: antiquewhite;
+    font-size: 50px;
+}
+/* id selecator */
+/* #heading{
+    color: brown;
+    background-color: yellow;
+}
+#heading--1{
+    background-color: aqua;
+    color:red ;
+}
+/* class selector */
+/* .grouo{
+    background-color: aqua;
+    color: aqua;
+}   */
+
+/* h1{
+    color: aqua;
+    background-color: brown;
+    font-size: 50px;
+} */
+.main-content{
+    background-color: aqua;
+    color: red;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: normal;
+    font-weight:500 ;
+    line-height: 2.6;
+}
